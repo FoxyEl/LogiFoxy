@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LogiFoxy but friends call me El.
-- 👀 I’m interested in data information, analysis and anything concerning economics. 
+- 👀 I’m interested in data information, analysis and anything concerning numbers such as economics. 
 - 🌱 I’m currently learning Python and R.
 - 💞️ I’m not looking to collaborate on a project right now as I working on compilers and my thesis(sorry).
 - 📫 How to reach me ... well through here!
